@@ -46,3 +46,6 @@ yarn-debug.log*
 
 ### ignore .env ###
 .env
+
+# Ignore db test files.
+db/test.*
